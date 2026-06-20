@@ -1,0 +1,1 @@
+chore: init Expo managed app skeleton for Rook AI

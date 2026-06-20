@@ -1,0 +1,2 @@
+// Placeholder asset note — replace with an actual icon/splash image in ./assets
+This repository includes a placeholder note. Add assets/icon.png and assets/splash.png for app icons and splash.
